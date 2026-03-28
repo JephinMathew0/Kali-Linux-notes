@@ -1,3 +1,9 @@
+# 🔐 Kali Linux & Cybersecurity Lab
+
+![Cybersecurity](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Tools](https://img.shields.io/badge/Tools-Nmap%20%7C%20Wireshark%20%7C%20BurpSuite-green)
+![Status](https://img.shields.io/badge/Status-Active-orange)
+
 # Kali-Linux-notes
 My journey learning Kali Linux and cybersecurity basics
 # Kali Linux Notes & Cybersecurity Lab
