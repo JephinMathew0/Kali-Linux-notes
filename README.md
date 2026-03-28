@@ -51,3 +51,10 @@ nmap -p 21,22,80 <target-ip>
 ---
 
 🚀 Consistently updating with new tools and techniques
+
+## 📈 Progress
+- [x] Basic commands
+- [x] Nmap scanning
+- [x] Local network scan
+- [ ] Web application testing
+- [ ] Metasploit basics
